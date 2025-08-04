@@ -84,13 +84,13 @@ body {
   justify-content: flex-start;
   align-items: flex-start;
   gap: 32px;
-  max-width: 600px;
 }
 
 .right p {
   font-size: 1.2em;
   line-height: 1.4;
   margin: 0;
+  max-width: 600px;
 }
 
 .cta-btn {
@@ -176,7 +176,7 @@ body {
     display: flex;
   }
   .left h1 {
-    font-size: 2.5em;
+    font-size: 2.4em;
     margin: 0 auto 16px auto;
     text-align: center;
     display: flex;
